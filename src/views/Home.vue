@@ -67,6 +67,8 @@ export default {
       latitude: ''
     };
   },
+
+  //方法
   mounted() {
     // 生成地图
     this.initMap();
